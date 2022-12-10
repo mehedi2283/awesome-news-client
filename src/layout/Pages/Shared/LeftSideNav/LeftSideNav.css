@@ -1,0 +1,22 @@
+.left-container{
+    position: sticky;
+    top: 100px;
+    
+}
+
+
+.link a{
+   color: rgba(0, 0, 0, 0.924);
+   font-weight: 500;
+}
+.link a:hover{
+    color: black;
+    font-weight: 700;
+    text-decoration-color: rgb(0, 8, 255);
+    text-decoration-thickness: 3px;
+    
+     
+
+}
+
+

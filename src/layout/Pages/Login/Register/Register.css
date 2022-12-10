@@ -1,0 +1,13 @@
+.link a{
+    color: rgb(0, 94, 255);
+    
+    font-weight: bold;
+}
+.link a:hover{
+    color: blue;
+   
+    
+    
+}
+
+

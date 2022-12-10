@@ -1,0 +1,14 @@
+.facebook a:hover{
+   color: rgb(36, 67, 240);
+
+}
+.twitter a:hover{
+    color: rgb(104, 195, 231);
+}
+.whatsapp a:hover{
+    color: rgb(44, 141, 31);
+}
+.twitch a:hover{
+    color: rgb(82, 31, 165);
+}
+ 
